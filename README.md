@@ -13,9 +13,7 @@ This repository contains code and resources for developing a robotics programmin
 ## Requirements
 
 - Python 3.10.x
-- Ultralytics YOLOv8+
 - PyTorch
-- Transformers (for LLMs)
 - Other dependencies listed in `requirements.txt`
 
 ## Installation
