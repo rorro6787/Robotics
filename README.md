@@ -72,4 +72,4 @@ Contributions are welcome! Please follow these steps:
 
 ## Acknowledgements
 
-- Inspired by the latest advancements in robotics and my university subject.
+Inspired by the latest advancements in robotics and my university subject.
