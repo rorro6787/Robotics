@@ -33,7 +33,6 @@ This repository contains code and resources for developing a robotics programmin
 3. (Optional) Create a virtual environment:
 
     ```sh
-    sudo apt-get install python3 -venv
     python3.10 -m venv venv
     .\venv\Scripts\activate  # On macOS/Linux use 'source venv/bin/activate'
     ```
